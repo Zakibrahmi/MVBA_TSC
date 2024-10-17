@@ -1,0 +1,6 @@
+typer
+rich
+mock
+pip install pymongo
+pip install scikit-learn
+pip install numpy
