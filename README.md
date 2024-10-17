@@ -15,5 +15,5 @@ Please cite the following reference when using this code:
 ```
 # How to use the code
 1. Generate the dataset, which is a set of services and their service providers stored in MongoDB database.
-2. Run the file app.py with contains an example of execution. A user request is defined by input and output (e.g., A', 'L' ), a service class is defined also by it input and output. Hence, we can create a dependency graph based on input and output of service class.  
+2. Run the file app.py, which contains an example of execution. A user request is defined by its input and output (e.g., 'A', 'L'), and a service class is similarly defined by its input and output. Based on these inputs and outputs, we can create a dependency graph that illustrates the relationships between the service classes.
 
